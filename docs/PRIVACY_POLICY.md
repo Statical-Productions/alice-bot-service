@@ -15,8 +15,11 @@ The data collected by Alice is used to:
 ## Data Retention
 The collected data is encrypted, private, temporary and is not stored long-term. It will be deleted through user commands.
 
-## Data Sharing
-Text input from users is processed by Deepinfra, an AI service. This processing is used to generate responses and give it the bot's socializing function.
+## What Data Is Shared To Third Parties
+Text input from users is processed by third services in order to generate responses and give it the bot's socializing function:
+- Deepinfra, an AI service.
+
+## What Data Is Not Shared To Third Parties
 Other inputs will only be stored in locally-hosted services hosted privately by the bot owner.
 
 ## User Consent
