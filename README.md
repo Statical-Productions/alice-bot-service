@@ -1,4 +1,4 @@
-# Alice | By Statical
+# Alice | By Staticaliza
 
 Alice is a Discord bot designed to interact with users by processing their messages and images. This repository contains the source code and documentation for the bot.
 
